@@ -1,14 +1,11 @@
 # Live website link
 
-https://lively-wisp-9bdca7.netlify.app/
+https://idyllic-tartufo-8f59e9.netlify.app/
 
 # How this website works
 
-- You can explore multiple jobs in the homepage
-- You can see details of any job from the homepage
-- Apply to those jobs by clicking apply now
-- For applying to jobs you must log in using any account
-- If you don't have any account, you can sign up and create one
+- You can explore multiple movies in the homepage
+- You can see details of any movie from the homepage by clicking on `view details`
 - All device responsiveness
 
 # Technologies
@@ -22,6 +19,10 @@ https://lively-wisp-9bdca7.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Install the dependencies by
+
+- `npm install`
 
 ## Available Scripts
 
